@@ -1,0 +1,24 @@
+4
+Sand
+3
+Stone
+1
+Nether Quartz
+7
+Oak Log
+9
+Redstone Dust
+10
+Iron Ingot
+7
+Cobblestone
+3
+String
+3
+Honeycomb
+1
+Grass Block
+1
+White Wool
+1
+Cornflower
